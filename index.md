@@ -6,6 +6,11 @@ Application allow to:
 - add expences done during the trip
 - write summary of each day
 
+## Physical & CI/CD architecture
+
+
+![](Images/2022-10-19-12-18-35.png)
+
 
 ## Screenshots
 List of expences of particular trip
